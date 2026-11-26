@@ -1,0 +1,3 @@
+# Driversディレクトリ以下のファイルを生成物として扱い、デフォルトのdiff表示から除外する
+Drivers/** linguist-generated=true
+Drivers/** -diff
